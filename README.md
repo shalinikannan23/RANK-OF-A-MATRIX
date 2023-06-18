@@ -23,9 +23,8 @@ a=np.array([[3,2,5],[1,1,2],[3,3,6]])
 b=np.linalg.matrix_rank(a)
 print(b)
 ```
-
 ## Output:
-![OUTPUT](./images/py1.png)
+![image](https://github.com/shalinikannan23/RANK-OF-A-MATRIX/assets/118656529/eea9009a-a070-4b29-a081-7fdf041aefdb)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
